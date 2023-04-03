@@ -3,14 +3,15 @@
 ## Tutorial 02 : File System - create, read and append files in local directories
 
 ## Table of Contents
-- [fs methods](fs-methods)
-  - [Create Files](create-files)
-  - [Read Files](read-files)
-  - [Append Files](append-files)
-- [fsPromises methods](fsPromises-methods)
-  - [Create Files](create-files)
-  - [Read Files](read-files)
-  - [Append Files](append-files)
+- [Node.js](#nodejs)
+  - [Tutorial 02 : File System - create, read and append files in local directories](#tutorial-02--file-system---create-read-and-append-files-in-local-directories)
+  - [Table of Contents](#table-of-contents)
+  - [fs methods](#fs-methods)
+    - [Create Files](#create-files)
+    - [Read Files](#read-files)
+    - [Append Files](#append-files)
+  - [fsPromises methods](#fspromises-methods)
+    - [Read Files, Create files and append files](#read-files-create-files-and-append-files)
 
 ## fs methods
 To use the fs module:
