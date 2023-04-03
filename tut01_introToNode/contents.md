@@ -3,13 +3,13 @@
 ## Table of contents
 - [Node.js](#nodejs)
   - [Table of contents](#table-of-contents)
-  - [Introduction-to-Node](#introduction-to-node)
-  - [\_\_dirname-and-\_\_filename](#__dirname-and-__filename)
-  - [os-module](#os-module)
-  - [path-module](#path-module)
-  - [local-import-and-export](#local-import-and-export)
+  - [Introduction to Node](#introduction-to-node)
+  - [\_\_dirname and \_\_filename](#__dirname-and-__filename)
+  - [os module](#os-module)
+  - [path module](#path-module)
+  - [Local import and export](#local-import-and-export)
 
-## Introduction-to-Node
+## Introduction to Node
 Node.js is a javascript runtime environment
 
 1. Node runs on a server not in a browser (Backend not frontend)
@@ -19,12 +19,12 @@ Node.js is a javascript runtime environment
 5. CommonJS modules instead of ES6 modules
 6. Missing some JS APIs like `fetch`
    
-## __dirname-and-__filename
+## __dirname and __filename
 - `__dirname` gives the entire path of the local directory in which the developer is working.
 
 - `__filename` gives the entire path of the file which is executed from the local directory.
 
-## os-module
+## os module
 - Importing the `os` module : 
 
   `const os = require("os);`
@@ -34,7 +34,7 @@ Node.js is a javascript runtime environment
   - `os.version()` : Gives the version of developer's machine's operating system.
   - `os.homedir()` : Gives home directory of the developer's local machine .
 
-## path-module
+## path module
 - Importing the `path` module
 
   `const path = require("path)`
@@ -44,5 +44,5 @@ Node.js is a javascript runtime environment
   - `path.extname(__filename)` : Gives the extension of the file in which the above code is executed.
   - `path.parse(__filename)` : Gives the entire data listed above in the form of an javascript object.
 
-## local-import-and-export
+## Local import and export
 Please go through the program files `index.js` and `math.js ` to understand the topic.
