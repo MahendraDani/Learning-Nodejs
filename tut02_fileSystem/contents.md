@@ -65,14 +65,15 @@ const fileOperations = async()=>{
   await fsPromises.writeFile("path","utf8",(err)=>{
     if (err) throw err
     console.log("File created");
-  })
+  });
 
   // Append files
   await fsPromises.appendFile("path","Write the data which is to be appended here",(err)=>{
     if (err) throw err;
     console.log("File append complete")
-  })
+  });
   
-}
+};
+fileOperations();
 ```
 
