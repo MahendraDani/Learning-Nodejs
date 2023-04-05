@@ -4,11 +4,15 @@
   "description": "Tutorial 03 - npm Package Manager",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "author": "Mahendra Dani",
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.29.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   }
 }
