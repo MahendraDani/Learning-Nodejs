@@ -1,0 +1,14 @@
+{
+  "name": "tut03_npmmodules",
+  "version": "1.0.0",
+  "description": "Tutorial 03 - npm Package Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahendra Dani",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
