@@ -1,0 +1,19 @@
+20230411	17:03:10	/css/style.css	GET
+20230411	17:05:14	/css/style.css	GET
+20230411	17:05:14	/img/cameraman.jpg	GET
+20230411	17:05:14	/img/cameraman.jpg	GET
+20230411	17:05:26	/new-page.html	GET
+20230411	17:05:26	/new-page.html	GET
+20230411	17:05:26	/new-page.html	GET
+20230411	17:05:26	/css/style.css	GET
+20230411	17:05:26	/css/style.css	GET
+20230411	17:05:26	/css/style.css	GET
+20230411	17:05:26	/css/style.css	GET
+20230411	17:08:33	/new-page.html	GET
+20230411	17:08:33	/css/style.css	GET
+20230411	17:11:29	/new-page.html	GET
+20230411	17:11:29	/css/style.css	GET
+20230411	17:12:06	/nopage	GET
+
+20230411	17:12:06	/css/style.css	GET
+

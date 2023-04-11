@@ -4,8 +4,8 @@
   "description": "Tutorial 03 - npm Package Manager",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "author": "Mahendra Dani",
   "license": "ISC",

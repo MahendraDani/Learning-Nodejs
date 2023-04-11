@@ -1,0 +1,16 @@
+{
+  "animals": [
+    {
+      "name": "tiger",
+      "type": "wild"
+    },
+    {
+      "name": "Cow",
+      "type": "domestic"
+    },
+    {
+      "name": "Whale",
+      "type": "aquatic"
+    }
+  ]
+}
